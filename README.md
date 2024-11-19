@@ -10,7 +10,7 @@
 - 🛠️ Skilled in **Fullstack Development**, experienced with **HTML, CSS, PHP, SQL, Java, C++, and Python**.
 - 🌐 CISCO Certified in IoT, Cybersecurity, and IT Essentials.
 - 🔍 I’m passionate about **web development**, **AI**, and **data analysis**.
-- 🚀 Projects: [spectcr.com](https://spectcr.com), [Terravalor.com](https://terravalor.com), [geoterra.com](http://163.178.171.105/).
+- 🚀 Projects: [spectcr.com](https://spectcr.com), [Terravalorcr.com](https://terravalorcr.com/), [geoterra.com](http://163.178.171.105/).
 - 📍 Based in **San José, Costa Rica**.
 
 ---
