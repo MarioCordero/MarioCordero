@@ -43,9 +43,9 @@
 
 ### 📫 Contact Me:
 <p>
-  📧 **Email**: corderomariogabriel@gmail.com <br>
-  📍 **Location**: Sabanilla, San José, Costa Rica <br>
-  📱 **Phone**: +506 8344-3610
+  📧 <b>Email</b>: corderomariogabriel@gmail.com <br>
+  📍 <b>Location</b>: Sabanilla, San José, Costa Rica <br>
+  📱 <b>Phone</b>: +506 8344-3610
 </p>
 
 ---
