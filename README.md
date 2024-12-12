@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me:
 - 🎓 I’m a **Software Developer** currently pursuing a **B.Sc. in Computer Science** at Universidad de Costa Rica.  
 - 🛠️ Skilled in **Fullstack Development**, experienced with **HTML, CSS, PHP, SQL, Java, C++, and Python**.  
-- 🌐 CISCO Certified in IoT, Cybersecurity, and IT Essentials.  
+- 🌐 CISCO Certified in **IoT**, **Cybersecurity**, **Linux Unhatched** and **IT Essentials**.  
 - 🔍 I’m passionate about **web development**, **AI**, and **data analysis**.  
 - 📍 Based in **San José, Costa Rica**.  
 
@@ -50,6 +50,12 @@
 ---
 
 ### 📫 Contact Me:
+
+<a href="https://www.linkedin.com/in/mario-cordero-aguilar/"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/mario-cordero-aguilar/"> Instagram </a>
+<a href="https://www.linkedin.com/in/mario-cordero-aguilar/"> Gmail </a>
+
+
 <p>
   📧 <b>Email</b>: corderomariogabriel@gmail.com <br>
   📍 <b>Location</b>: Sabanilla, San José, Costa Rica <br>
