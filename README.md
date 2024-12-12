@@ -1,17 +1,25 @@
 <h1 align="center"> Hi, I’m Mario Cordero 👋 </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="200">
-</p>
+
+![Cool Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 I’m a **Software Developer** currently pursuing a **B.Sc. in Computer Science** at Universidad de Costa Rica.
-- 🛠️ Skilled in **Fullstack Development**, experienced with **HTML, CSS, PHP, SQL, Java, C++, and Python**.
-- 🌐 CISCO Certified in IoT, Cybersecurity, and IT Essentials.
-- 🔍 I’m passionate about **web development**, **AI**, and **data analysis**.
-- 🚀 Projects: [spectcr.com](https://spectcr.com), [Terravalorcr.com](https://terravalorcr.com/), [geoterra.com](http://163.178.171.105/).
-- 📍 Based in **San José, Costa Rica**.
+- 🎓 I’m a **Software Developer** currently pursuing a **B.Sc. in Computer Science** at Universidad de Costa Rica.  
+- 🛠️ Skilled in **Fullstack Development**, experienced with **HTML, CSS, PHP, SQL, Java, C++, and Python**.  
+- 🌐 CISCO Certified in IoT, Cybersecurity, and IT Essentials.  
+- 🔍 I’m passionate about **web development**, **AI**, and **data analysis**.  
+- 📍 Based in **San José, Costa Rica**.  
+
+---
+
+### 🚀 Projects:
+
+| **Project**      | **Description**                         | **Link**                  |
+|-------------------|-----------------------------------------|---------------------------|
+| ![SpectCR Logo](https://via.placeholder.com/100x50?text=Logo) | SpectCR: Platform for X   | [spectcr.com](https://spectcr.com) |
+| ![Terravalor Logo](https://via.placeholder.com/100x50?text=Logo) | TerravalorCR: Tool for Y  | [Terravalorcr.com](https://terravalorcr.com/) |
+| ![GeoterRA Logo](https://via.placeholder.com/100x50?text=Logo) | GeoterRA: Geothermal Maps | [geoterra.com](http://163.178.171.105/) |
 
 ---
 
@@ -49,7 +57,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
-</p>
