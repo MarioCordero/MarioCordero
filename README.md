@@ -17,9 +17,9 @@
 
 | **Project**      | **Description**                         | **Link**                  |
 |-------------------|-----------------------------------------|---------------------------|
-| <img src="https://github.com/MarioCordero/MarioCordero/blob/main/logo-SPECT.png" width="100px" alt="SpectCR Logo"> | SPECT Soluciones Informáticas  | [spectcr.com](https://spectcr.com) |
-| ![Terravalor Logo](https://via.placeholder.com/100x50?text=Logo) | TerravalorCR: Tool for Y  | [Terravalorcr.com](https://terravalorcr.com/) |
-| ![GeoterRA Logo](https://via.placeholder.com/100x50?text=Logo) | GeoterRA: Geothermal Maps | [geoterra.com](http://163.178.171.105/) |
+| <img src="https://github.com/MarioCordero/MarioCordero/blob/main/logo-SPECT.png" width="200px" alt="SPECT Logo"> | SPECT Soluciones Informáticas  | [spectcr.com](https://spectcr.com) |
+| <img src="https://github.com/MarioCordero/MarioCordero/blob/main/logo-TerraValor.png" width="200px" alt="TerraValor Logo"> | TerraValor | [terravalorcr.com](https://terravalorcr.com/) |
+| <img src="https://github.com/MarioCordero/MarioCordero/blob/main/logo-GeoterRA.png" width="200px" alt="GeoterRA Logo"> | GeoterRA: Geothermal Maps | [geoterRA](http://163.178.171.105/) |
 
 ---
 
