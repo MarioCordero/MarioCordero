@@ -51,14 +51,12 @@
 
 ### 📫 Contact Me:
 
-¡Conéctate conmigo! Estoy siempre abierto a nuevas oportunidades y colaboraciones.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/mario-cordero-aguilar/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" style="margin-right: 20px;"/>
   </a>
   <a href="https://www.instagram.com/_mario_cordero_/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30"/>
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30" style="margin-right: 20px;"/>
   </a>
   <a href="mailto:corderomariogabriel@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30"/>
