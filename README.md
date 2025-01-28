@@ -51,9 +51,19 @@
 
 ### 📫 Contact Me:
 
-<a href="https://www.linkedin.com/in/mario-cordero-aguilar/"> LinkedIn </a>
-<a href="https://www.linkedin.com/in/mario-cordero-aguilar/"> Instagram </a>
-<a href="https://www.linkedin.com/in/mario-cordero-aguilar/"> Gmail </a>
+¡Conéctate conmigo! Estoy siempre abierto a nuevas oportunidades y colaboraciones.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mario-cordero-aguilar/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="https://www.instagram.com/_mario_cordero_/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30"/>
+  </a>
+  <a href="mailto:corderomariogabriel@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30"/>
+  </a>
+</p>
 
 
 <p>
