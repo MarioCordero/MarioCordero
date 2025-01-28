@@ -17,7 +17,7 @@
 
 | **Project**      | **Description**                         | **Link**                  |
 |-------------------|-----------------------------------------|---------------------------|
-| ![SpectCR Logo]([https://via.placeholder.com/100x50?text=Logo](https://github.com/MarioCordero/MarioCordero/blob/main/logo-GeoterRA.png)) | SpectCR: Platform for X   | [spectcr.com](https://spectcr.com) |
+| ![SpectCR Logo](https://github.com/MarioCordero/MarioCordero/blob/main/logo-SPECT.png) | SPECT Soluciones Informáticas  | [spectcr.com](https://spectcr.com) |
 | ![Terravalor Logo](https://via.placeholder.com/100x50?text=Logo) | TerravalorCR: Tool for Y  | [Terravalorcr.com](https://terravalorcr.com/) |
 | ![GeoterRA Logo](https://via.placeholder.com/100x50?text=Logo) | GeoterRA: Geothermal Maps | [geoterra.com](http://163.178.171.105/) |
 
