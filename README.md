@@ -5,17 +5,16 @@
 ---
 
 ### 👨‍💻 About Me:
+  <a href="https://abundant-frill-9e9.notion.site/Mario-Cordero-15fb6f4aed4d809b8f23fa111c3d2ab0?pvs=74" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Click%20Here-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
+  </a>
+  
 - 🎓 I’m a **Software Developer** currently pursuing a **B.Sc. in Computer Science** at Universidad de Costa Rica.  
 - 🛠️ Skilled in **Fullstack Development**, experienced with **HTML, CSS, PHP, SQL, Java, C++, and Python**.  
 - 🌐 CISCO Certified in **IoT**, **Cybersecurity**, **Linux Unhatched** and **IT Essentials**.  
 - 🔍 I’m passionate about **web development**, **AI**, and **data analysis**.  
-- 📍 Based in **San José, Costa Rica**.  
-
-  📖 <b>More About Me</b>
-  <hr>
-  <a href="https://abundant-frill-9e9.notion.site/Mario-Cordero-15fb6f4aed4d809b8f23fa111c3d2ab0?pvs=74" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-Click%20Here-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
-  </a>
+- 📍 Based in **San José, Costa Rica**.
+- 
 ---
 
 ### 🚀 Projects:
