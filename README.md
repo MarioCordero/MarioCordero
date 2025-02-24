@@ -12,6 +12,9 @@
 - 📍 Based in **San José, Costa Rica**.  
 
   📖 <b>More About Me</b>: <a href="https://abundant-frill-9e9.notion.site/Mario-Cordero-15fb6f4aed4d809b8f23fa111c3d2ab0?pvs=74" target="_blank">Check my Notion Page</a>
+  <a href="https://your-notion-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Click%20Here-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
+  </a>
 ---
 
 ### 🚀 Projects:
