@@ -14,7 +14,7 @@
 - 🌐 CISCO Certified in **IoT**, **Cybersecurity**, **Linux Unhatched** and **IT Essentials**.  
 - 🔍 I’m passionate about **web development**, **AI**, and **data analysis**.  
 - 📍 Based in **San José, Costa Rica**.
-- 
+
 ---
 
 ### 🚀 Projects:
