@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/badge/My%20Portfolio-Explore%20Now-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
   </a>
   
-- 🎓 **Software Architect & Engineer** con más de 5 años de experiencia, cursando actualmente el Bachillerato en **Ciencias de la Computación** en la Universidad de Costa Rica.
-- 🏗️ Especialista en el diseño de **arquitecturas escalables** (N-Layer, Microservicios) y gestión de proyectos bajo el framework **SCRUM** como Scrum Master.
-- 🚀 Liderando actualmente el desarrollo de plataformas institucionales en la **UCR**, incluyendo **SIBEC** para la VIVE y la plataforma geocientífica **GeoterRA**.
-- 🌐 Certificado por CISCO en **Cybersecurity, IoT, y Linux**.
-- 📍 Basado en **San José, Costa Rica**.
+- 🎓 **Software Architect & Engineer** with over 5 years of experience, currently pursuing a **B.Sc. in Computer Science** at the University of Costa Rica.
+- 🏗️ Specialist in designing **scalable architectures** (N-Layer, Microservices) and project management under the **SCRUM** framework as a Scrum Master.
+- 🚀 Currently leading the development of institutional platforms at **UCR**, including **SIBEC** for VIVE and the geoscientific platform **GeoterRA**.
+- 🌐 CISCO Certified in **Cybersecurity, IoT, and Linux**.
+- 📍 Based in **San José, Costa Rica**.
 
 ---
 
@@ -47,26 +47,26 @@
 
 | **Project** | **Description** | **Role** |
 | :--- | :--- | :--- |
-| **PlaniFy** | (Entonrno académido) Sistema integral de gestión de planillas con arquitectura .NET Core y base de datos en Azure. | **Project Lead & Architect** |
-| **SIBEC (UCR)** | Sistema de gestión de becas y representación estudiantil (VIVE-UCR). | **Backend Software Engineer & Architect** |
-| **GeoterRA** | Plataforma científica para exploración geotérmica e hidrogeoquímica. | **Full-Stack Lead Architect** |
-| **ChemMaster** | PWA educativa para enseñanza de química con CMS personalizado para el MEP en Costa Rica. | **Full-Stack Developer** |
-| **SPECT** | Soluciones informáticas, configuraciones de emulación basadas en Linux y más. | **Founder & Developer** |
+| **PlaniFy** | (Academic Environment) Comprehensive payroll management system with .NET Core architecture and Azure database. | **Project Lead & Architect** |
+| **SIBEC (UCR)** | Scholarship and student representation management system for the Vice-Rectory for Student Life (VIVE-UCR). | **Backend Software Engineer & Architect** |
+| **GeoterRA** | Scientific platform for geothermal exploration and hydrogeochemical research. | **Full-Stack Lead Architect** |
+| **ChemMaster** | Educational PWA for chemistry teaching with a custom CMS for the MEP in Costa Rica. | **Full-Stack Developer** |
+| **SPECT** | IT solutions, Linux-based emulation configurations, and personal tech business. | **Founder & Developer** |
 
 ---
 
 ### 🌟 Professional Highlights:
-- ⚡ **Scrum Master:** Experiencia facilitando ceremonias, gestión de backlog y métricas de desempeño (Burndown charts)[cite: 1].
-- 🧠 **AI & Deep Learning:** Desarrollo de prototipos para diagnóstico médico mediante rayos X con **94% de precisión** (FastAI/PyTorch)[cite: 1].
-- 📊 **Data Analysis:** Análisis avanzado de datos utilizando **R**, **Azure Data Factory (ADF)** y **Databricks**.
-- 🎨 **UI/UX Design:** Experto en Adobe Suite y Figma para el prototipado de interfaces centradas en el usuario[cite: 1].
-- 📘 **Bilingual:** Certificación Nivel B2 (Inglés/Español)[cite: 1].
+- ⚡ **Scrum Master:** Experienced in facilitating ceremonies, backlog management, and performance metrics like Burndown charts.
+- 🧠 **AI & Deep Learning:** Developed prototypes for medical X-ray diagnosis with **94% accuracy** using FastAI and PyTorch.
+- 📊 **Data Analysis:** Advanced data analysis using **R**, **Azure Data Factory (ADF)**, and **Databricks**.
+- 🎨 **UI/UX Design:** Expert in Adobe Suite and Figma for prototyping user-centered interfaces.
+- 📘 **Bilingual:** B2 Level Certified (English/Spanish).
 
 ---
 
 ### 🌱 Currently Exploring:
-- **Big Data Workflows** con herramientas de Azure.
-- Optimización de modelos de **Computer Vision** para entornos industriales.
+- **Big Data Workflows** with Azure tools.
+- Optimizing **Computer Vision** models for industrial environments.
 
 ---
 
@@ -87,5 +87,5 @@
 <p>
   📧 <b>Email</b>: corderomariogabriel@gmail.com <br>
   📍 <b>Location</b>: Sabanilla, San José, Costa Rica <br>
-  📱 <b>Phone</b>: +506 8344-3610[cite: 1]
+  📱 <b>Phone</b>: +506 8344-3610
 </p>
