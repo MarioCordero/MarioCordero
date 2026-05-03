@@ -47,11 +47,11 @@
 
 | **Project** | **Description** | **Role** |
 | :--- | :--- | :--- |
-| **PlaniFy** | Sistema integral de gestión de planillas con arquitectura .NET Core y Docker[cite: 1]. | **Project Lead & Architect** |
-| **SIBEC (UCR)** | Sistema de gestión de becas y representación estudiantil (VIVE-UCR)[cite: 1]. | **Backend Software Engineer** |
-| **GeoterRA** | Plataforma científica para exploración geotérmica e hidrogeoquímica[cite: 1]. | **Full-Stack Lead Architect** |
-| **ChemMaster** | PWA educativa para enseñanza de química con CMS personalizado[cite: 1]. | **Full-Stack Developer** |
-| **SPECT** | Soluciones informáticas y configuraciones de emulación basadas en Linux[cite: 1]. | **Founder & Developer** |
+| **PlaniFy** | (Entonrno académido) Sistema integral de gestión de planillas con arquitectura .NET Core y base de datos en Azure. | **Project Lead & Architect** |
+| **SIBEC (UCR)** | Sistema de gestión de becas y representación estudiantil (VIVE-UCR). | **Backend Software Engineer & Architect** |
+| **GeoterRA** | Plataforma científica para exploración geotérmica e hidrogeoquímica. | **Full-Stack Lead Architect** |
+| **ChemMaster** | PWA educativa para enseñanza de química con CMS personalizado para el MEP en Costa Rica. | **Full-Stack Developer** |
+| **SPECT** | Soluciones informáticas, configuraciones de emulación basadas en Linux y más. | **Founder & Developer** |
 
 ---
 
